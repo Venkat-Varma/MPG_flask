@@ -3,3 +3,4 @@ Numpy
 Scikit-learn
 Flask
 Pickle
+Streamlit
